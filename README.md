@@ -4,7 +4,7 @@
 
 ## Скачать
 
-**[Скачать Progressium Beta (Windows x64, ZIP)](https://lichnyj-treker-progressa.vercel.app/downloads/Progressium-Beta-win-x64.zip)**
+**[Скачать Progressium Beta (Windows x64, ZIP)](https://github.com/Teodorka3/progressium-beta/releases/latest/download/Progressium-Beta-win-x64.zip)**
 
 ## Установка
 
