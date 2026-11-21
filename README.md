@@ -4,16 +4,17 @@
 
 ## Скачать
 
-- **[Скачать Progressium Beta (Windows x64, ZIP)](https://lichnyj-treker-progressa.vercel.app/downloads/Progressium-Beta-win-x64.zip)**
+**[Скачать Progressium Beta (Windows x64, ZIP)](https://lichnyj-treker-progressa.vercel.app/downloads/Progressium-Beta-win-x64.zip)**
 
-- ## Установка
+## Установка
 
-- 1. Скачайте ZIP.
-  2. 2. Распакуйте архив.
-     3. 3. Запустите `LevelingApp.exe`.
-       
-        4. Требуется Windows 10/11 и интернет для синхронизации. Отдельный .NET устанавливать не нужно.
-       
-        5. ## Ссылки
-       
-        6. - Сайт: [lichnyj-treker-progressa.
+1. Скачайте ZIP.
+2. Распакуйте архив.
+3. Запустите `LevelingApp.exe`.
+
+Требуется Windows 10/11 и интернет для синхронизации. Отдельный .NET устанавливать не нужно.
+
+## Ссылки
+
+- [Сайт](https://lichnyj-treker-progressa.vercel.app)
+- [Поддержка](https://lichnyj-treker-support.vercel.app)
