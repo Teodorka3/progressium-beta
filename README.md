@@ -2,9 +2,16 @@
 
 Бесплатная бета геймифицированного трекера прогресса для Windows.
 
+## Что нового в 0.9.1-beta
+
+- 📖 Сюжет/главы — прогресс открывает новые главы
+- 🏆 Лидерборд — топ игроков по уровню, XP, золоту и серии
+- 🎁 Рандомные кейсы за выполнение ежедневных квестов
+- 🛡️ Базовая защита от спама RPC
+
 ## Скачать
 
-**[Скачать Progressium Beta (Windows x64, ZIP)](https://github.com/Teodorka3/progressium-beta/releases/latest/download/Progressium-Beta-win-x64.zip)**
+**[Скачать Progressium Beta (Windows x64, ZIP)](https://lichnyj-treker-progressa.vercel.app/downloads/Progressium-Beta-win-x64.zip)**
 
 ## Установка
 
